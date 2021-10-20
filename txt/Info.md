@@ -4,10 +4,10 @@
 **So these will come in handy! They are all named what they include (of course) so it should be easier for you.**
 > Rocket uses alot of important things from the random.choice module and has to use it due to the fact of not many other *"Reliable"* random modules.
 Using random.choice(), the code will look like this if you want to include your *own* txt file for this.
-```py
+`py
       n = open("txt/ip.txt", "r")
       ip = n.readlines()
-      random.choice(ip)```
+      random.choice(ip)`
 **You send the `random.choice(ip)` to the text channel.**
 
 # To Do List!
