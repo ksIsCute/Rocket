@@ -1,3 +1,5 @@
+import cla
+from cla import TOKEN
 from discord.ext import commands
 from discord.ext.commands import CommandNotFound
 from host import keep_alive
@@ -342,4 +344,4 @@ async def snipe(ctx):
 
 keep_alive()
 client.loop.create_task(change())
-client.run(os.environ['TOKEN'])
+client.run(TOKEN)
