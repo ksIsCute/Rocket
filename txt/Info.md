@@ -12,8 +12,9 @@ Using random.choice(), the code will look like this if you want to include your 
 
 # To Do List!
 - [x] Create New Updates
-- [ ] Fix The Discord "Ban" error.
-- [ ] More commands and suggestions.
+- [x] Fix The Discord "Ban" error.
+- [x] More commands and suggestions.
+- [ ] Suggestions From Users:
 
 | Popularity | New Commands |
 | ----------- | ----------- |
